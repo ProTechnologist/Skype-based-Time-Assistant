@@ -1,7 +1,8 @@
 Skype based Time Assistant
 ==========================
 
-![Time Assistant](http://i.imgur.com/mTbPEz0.png)
+![Time Assistant Application](http://i.imgur.com/mTbPEz0.png)
+![Prepare Update Window](http://i.imgur.com/9z4MlvO.png)
 
 Inspiration
 ==========================
