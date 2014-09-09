@@ -1,4 +1,4 @@
 Skype based Time Assistant
 ==========================
 
-Skype based Time Assistant Application
+![Time Assistant](http://i.imgur.com/mTbPEz0.png)
