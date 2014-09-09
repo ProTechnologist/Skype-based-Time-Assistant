@@ -12,3 +12,11 @@ I found myself consistently calculating break minutes so to make sure that I hav
 Technical Specs
 ==========================
 This application connects to the Skype database, computes the break time, remind for the hourly updates and also generates a workable daily progress report.
+
+Recently added features
+==========================
+Skype based Time Assistant allows Team Leaders and others to see the break timings of their team members.
+
+Upcoming features that I have plans to add
+==========================
+I have been planning to add a network feature.
